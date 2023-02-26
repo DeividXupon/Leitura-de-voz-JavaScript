@@ -4,7 +4,7 @@ O site utiliza a ativação do seu microfone para reconhecer o que é dito e apr
 ## Como usar
 Para utilizar o projeto, siga os seguintes passos:
 
-1.. Clone o repositório em sua máquina local: git clone https://github.com/seu-usuario/seu-repositorio.git
+1.. Clone o repositório em sua máquina local: git clone https://github.com/DeividXupon/Leitura-de-voz-JavaScript
 
 **2.. Abra o arquivo index.html no navegador GOOGLE CHROME**
 
