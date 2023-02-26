@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+
+:root{
+    --font-paragrafos: 'DM Mono', monospace;
+    --font-titulos: 'Baloo Da 2', cursive;
+    --font-input: 'Nixie One', cursive;
+    --cor-fundo: #395B64; 
+    --cor-paragrafos: #A5C9CA;
+    --cor-titulos: #E7F6F2;
+}
+
+body{
+    background-color: var(--cor-fundo);
+    height: 100vh;
+}
+
+.conteudo{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 45px;
+}
+
+.titulo{
+    color: var(--cor-titulos);
+    font-family: var(--font-titulos);
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+.sub-titulo{
+    color: var(--cor-titulos);
+    font-family: var(--font-titulos);
+    font-size: 55px;
+}
+
+.instrucao, .ajuda{
+    color: var(--cor-paragrafos);
+    font-family: var(--font-paragrafos);
+    font-size: 19px;
+}
+
+.valor-dito{
+    padding: 10px;
+    font-family: var(--font-input);
+    font-size: 80px;
+    border: 2.5px solid #b5c0bd;
+    border-top-color: #6e8383;
+    border-left-color: #718383;
+    border-radius: 15px;
+    background-color: #a5c9ca6b;
+}
