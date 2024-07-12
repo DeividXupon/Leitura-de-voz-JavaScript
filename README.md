@@ -11,4 +11,4 @@ Para utilizar o projeto, siga os seguintes passos:
 3.. Permita o uso do microfone.
 
 ## API usada: Web Speech API
-A Web Speech API é uma interface de programação de aplicações (API) que permite aos desenvolvedores incorporar recursos de reconhecimento de fala e síntese de fala em seus aplicativos e páginas da web. Essa API pode ser usada para criar aplicativos que respondem a comandos de voz, permitindo aos usuários controlar aplicativos e navegar na web sem usar as mãos.
+A Web Speech API é uma interface de programação de aplicações (API) que permite aos desenvolvedores incorporar recursos de reconhecimento de fala e síntese de fala em seus aplicativos e páginas da web. Essa API pode ser usada para criar apliCativos que respondem a comandos de voz, permitindo aos usuários controlar aplicativos e navegar na web sem usar as mãos.
